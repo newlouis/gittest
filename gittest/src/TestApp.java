@@ -22,4 +22,8 @@ public class TestApp {
 	public void init(String abc){
 		System.out.println("测试人员过程");
 	}
+	
+	public void destroy(String aaa){
+		System.out.println("删除");
+	}
 }
