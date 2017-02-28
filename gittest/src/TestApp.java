@@ -18,4 +18,8 @@ public class TestApp {
 	public void main(String[] args){
 		System.out.println("testApp,first git servlet");
 	}
+	
+	public void init(String abc){
+		System.out.println("测试人员过程");
+	}
 }
