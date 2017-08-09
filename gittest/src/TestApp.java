@@ -26,4 +26,8 @@ public class TestApp {
 	public void destroy(String aaa){
 		System.out.println("删除");
 	}
+	
+	public void create(String aaa){
+		System.out.println("创建应用");
+	}
 }
